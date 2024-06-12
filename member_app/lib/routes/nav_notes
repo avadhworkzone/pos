@@ -1,0 +1,22 @@
+One screen to new screen navigation
+Navigator.pushNamed(
+                    context, RouteConstants.ROUTE_WAIT_FOR_SEEKER,
+                    arguments: sourceDetails);
+
+Remove current screen with new screen
+Navigator.pushReplacementNamed(context, RouteConstants.ROUTE_LOGIN);
+
+Remove all screens with new screen
+  Navigator.pushNamedAndRemoveUntil(
+                context, RouteConstants.ROUTE_HOME_SCREEN, (route) => false);
+
+Close current screen
+ Navigator.pop();
+
+Close current screen and pass value to previous screen
+ Navigator.pop(context, _searchCarColorList[index]);
+
+Getting the value from last screen to current screen
+     carColor = await Navigator.pushNamed(
+                      context,
+                      RouteConstants.ROUTE_CAR_COLOR_LIST) as ColorList;

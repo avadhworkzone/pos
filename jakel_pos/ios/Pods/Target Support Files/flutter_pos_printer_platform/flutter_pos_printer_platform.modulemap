@@ -1,0 +1,6 @@
+framework module flutter_pos_printer_platform {
+  umbrella header "flutter_pos_printer_platform-umbrella.h"
+
+  export *
+  module * { export * }
+}

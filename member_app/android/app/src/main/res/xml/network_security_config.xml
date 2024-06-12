@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!--To allow unsecured(http instead of https) web pages to see adding clear text in base config-->
+    <base-config  cleartextTrafficPermitted="false" >
+        <trust-anchors>
+            <certificates src="system"/>
+        </trust-anchors>
+    </base-config>
+<!--    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">superappdev.hrdcorp.gov.my</domain>
+    </domain-config>
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">superapp.hrdcorp.gov.my</domain>
+    </domain-config>-->
+</network-security-config>

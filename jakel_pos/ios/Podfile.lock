@@ -1,0 +1,144 @@
+PODS:
+  - auto_orientation (0.0.1):
+    - Flutter
+  - connectivity_plus (0.0.1):
+    - Flutter
+    - ReachabilitySwift
+  - device_info (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_meedu_videoplayer (0.0.1):
+    - Flutter
+  - flutter_pos_printer_platform (0.0.1):
+    - Flutter
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - integration_test (0.0.1):
+    - Flutter
+  - network_info_plus (0.0.1):
+    - Flutter
+  - package_info_plus (0.4.5):
+    - Flutter
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - platform_device_id (0.0.1):
+    - Flutter
+  - printing (1.0.0):
+    - Flutter
+  - ReachabilitySwift (5.0.0)
+  - screen_brightness_ios (0.1.0):
+    - Flutter
+  - Sentry/HybridSDK (7.31.5)
+  - sentry_flutter (0.0.1):
+    - Flutter
+    - FlutterMacOS
+    - Sentry/HybridSDK (= 7.31.5)
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - sqflite (0.0.2):
+    - Flutter
+    - FMDB (>= 2.7.5)
+  - video_player_avfoundation (0.0.1):
+    - Flutter
+  - volume_controller (0.0.1):
+    - Flutter
+  - wakelock (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - auto_orientation (from `.symlinks/plugins/auto_orientation/ios`)
+  - connectivity_plus (from `.symlinks/plugins/connectivity_plus/ios`)
+  - device_info (from `.symlinks/plugins/device_info/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_meedu_videoplayer (from `.symlinks/plugins/flutter_meedu_videoplayer/ios`)
+  - flutter_pos_printer_platform (from `.symlinks/plugins/flutter_pos_printer_platform/ios`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+  - network_info_plus (from `.symlinks/plugins/network_info_plus/ios`)
+  - package_info_plus (from `.symlinks/plugins/package_info_plus/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/ios`)
+  - platform_device_id (from `.symlinks/plugins/platform_device_id/ios`)
+  - printing (from `.symlinks/plugins/printing/ios`)
+  - screen_brightness_ios (from `.symlinks/plugins/screen_brightness_ios/ios`)
+  - sentry_flutter (from `.symlinks/plugins/sentry_flutter/ios`)
+  - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+  - video_player_avfoundation (from `.symlinks/plugins/video_player_avfoundation/ios`)
+  - volume_controller (from `.symlinks/plugins/volume_controller/ios`)
+  - wakelock (from `.symlinks/plugins/wakelock/ios`)
+
+SPEC REPOS:
+  trunk:
+    - FMDB
+    - ReachabilitySwift
+    - Sentry
+
+EXTERNAL SOURCES:
+  auto_orientation:
+    :path: ".symlinks/plugins/auto_orientation/ios"
+  connectivity_plus:
+    :path: ".symlinks/plugins/connectivity_plus/ios"
+  device_info:
+    :path: ".symlinks/plugins/device_info/ios"
+  Flutter:
+    :path: Flutter
+  flutter_meedu_videoplayer:
+    :path: ".symlinks/plugins/flutter_meedu_videoplayer/ios"
+  flutter_pos_printer_platform:
+    :path: ".symlinks/plugins/flutter_pos_printer_platform/ios"
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+  network_info_plus:
+    :path: ".symlinks/plugins/network_info_plus/ios"
+  package_info_plus:
+    :path: ".symlinks/plugins/package_info_plus/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/ios"
+  platform_device_id:
+    :path: ".symlinks/plugins/platform_device_id/ios"
+  printing:
+    :path: ".symlinks/plugins/printing/ios"
+  screen_brightness_ios:
+    :path: ".symlinks/plugins/screen_brightness_ios/ios"
+  sentry_flutter:
+    :path: ".symlinks/plugins/sentry_flutter/ios"
+  shared_preferences_foundation:
+    :path: ".symlinks/plugins/shared_preferences_foundation/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+  video_player_avfoundation:
+    :path: ".symlinks/plugins/video_player_avfoundation/ios"
+  volume_controller:
+    :path: ".symlinks/plugins/volume_controller/ios"
+  wakelock:
+    :path: ".symlinks/plugins/wakelock/ios"
+
+SPEC CHECKSUMS:
+  auto_orientation: 2941c44ebe5c3d41016001597ab03e81a92a26ce
+  connectivity_plus: 413a8857dd5d9f1c399a39130850d02fe0feaf7e
+  device_info: d7d233b645a32c40dfdc212de5cf646ca482f175
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  flutter_meedu_videoplayer: 33904939da9be875dbf8a6b88d05d04c26dec45c
+  flutter_pos_printer_platform: a4e9005c61448f702ab29af264126a57cfeee67d
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  integration_test: a1e7d09bd98eca2fc37aefd79d4f41ad37bdbbe5
+  network_info_plus: b78876159360f5580608c2cea620d6ceffabd0ad
+  package_info_plus: 6c92f08e1f853dc01228d6f553146438dafcd14e
+  path_provider_foundation: c68054786f1b4f3343858c1e1d0caaded73f0be9
+  platform_device_id: 81b3e2993881f87d0c82ef151dc274df4869aef5
+  printing: eafa00acb682c0ca029d4d98d0798f55a1e27102
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  screen_brightness_ios: 715ca807df953bf676d339f11464e438143ee625
+  Sentry: 4c9babff9034785067c896fd580b1f7de44da020
+  sentry_flutter: 1346a880b24c0240807b53b10cf50ddad40f504e
+  shared_preferences_foundation: 986fc17f3d3251412d18b0265f9c64113a8c2472
+  sqflite: 6d358c025f5b867b29ed92fc697fd34924e11904
+  video_player_avfoundation: 81e49bb3d9fb63dccf9fa0f6d877dc3ddbeac126
+  volume_controller: 531ddf792994285c9b17f9d8a7e4dcdd29b3eae9
+  wakelock: d0fc7c864128eac40eba1617cb5264d9c940b46f
+
+PODFILE CHECKSUM: ef19549a9bc3046e7bb7d2fab4d021637c0c58a3
+
+COCOAPODS: 1.11.3
